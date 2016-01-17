@@ -1,0 +1,2 @@
+# CClicker
+Cookie Cliker saves
